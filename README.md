@@ -1,5 +1,4 @@
 # ColorConverter
-by [ElChiniNet](http://xprimiendo.com)
 
 A Class to convert between different color models
 
